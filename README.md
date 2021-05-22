@@ -1,2 +1,2 @@
 # MercuryDemoTourScript-for-Selenium-WebDriver
-Automate the entire Mercury Demo Tour Website.
+Code for Mercury Demo Tour Website using java.
